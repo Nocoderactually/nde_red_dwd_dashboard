@@ -3,7 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-dwd-local-weather": "1.0.1"
+        "node-red-contrib-dwd-local-weather": "1.0.1",
+        "node-red-contrib-unit-converter": "0.0.2"
     },
     "node-red": {
         "settings": {
