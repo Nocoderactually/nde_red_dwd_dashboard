@@ -2,7 +2,9 @@
     "name": "mynodered",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-dwd-local-weather": "1.0.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_raspi.json",
